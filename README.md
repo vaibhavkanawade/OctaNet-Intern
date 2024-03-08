@@ -16,9 +16,11 @@ Learn industry best practices and standards.
 # Getting Started:
 Orientation: Your internship will commence with a virtual orientation session. During this session, you'll receive an overview of Octanet, our culture, and details specific to your role as a web development intern.
 
-# Setup: Ensure you have the necessary tools to work effectively from home. This includes a reliable internet connection, a computer or laptop, and any required software or development environments.
+# Setup: 
+Ensure you have the necessary tools to work effectively from home. This includes a reliable internet connection, a computer or laptop, and any required software or development environments.
 
-# Communication: Stay connected with your team and supervisors through email, instant messaging platforms, or video conferencing tools. Effective communication is vital for a successful remote internship experience.
+# Communication: 
+Stay connected with your team and supervisors through email, instant messaging platforms, or video conferencing tools. Effective communication is vital for a successful remote internship experience.
 
 # Expectations:
 Dedication: Commit to the agreed-upon hours for your internship to make meaningful progress.
